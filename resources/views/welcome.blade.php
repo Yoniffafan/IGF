@@ -80,12 +80,12 @@
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
             <li class="scroll active"><a href="#home">Home</a></li>
-            <li class="scroll"><a href="#services">Events</a></li>
+            <li class="scroll"><a href="#services">Acara</a></li>
             <li class="scroll"><a href="#about-us">Tentang</a></li>
             <li class="scroll"><a href="#portfolio">Galeri</a></li>
-            <li class="scroll"><a href="#team">Informasi</a></li>
-            <li class="scroll"><a href="#blog">Jadwal</a></li>
-            <li class="scroll"><a href="#contact">Contact</a></li>
+            <li class="scroll"><a href="#team">Jadwal</a></li>
+            <li class="scroll"><a href="#blog">Informasi</a></li>
+            <li class="scroll"><a href="#contact">Kontak</a></li>
           </ul>
         </div>
       </div>
@@ -96,7 +96,7 @@
       <div class="heading wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
         <div class="row">
           <div class="text-center col-sm-8 col-sm-offset-2">
-            <h2>Our Services</h2>
+            <h2>Rangkaian Acara</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam</p>
           </div>
         </div>
@@ -719,7 +719,7 @@
   </section><!--/#blog-->
 
   <section id="contact">
-    <div id="google-map" class="wow fadeIn" data-latitude="52.365629" data-longitude="4.871331" data-wow-duration="1000ms" data-wow-delay="400ms"></div>
+    <div id="google-map" class="wow fadeIn" data-latitude="1.2708333" data-longitude="124.8241948" data-wow-duration="1000ms" data-wow-delay="400ms"></div>
     <div id="contact-us" class="parallax">
       <div class="container">
         <div class="row">
