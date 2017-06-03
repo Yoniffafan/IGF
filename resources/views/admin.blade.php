@@ -7,9 +7,10 @@
     <link href="css/animate.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/lightbox.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
+
     <link id="css-preset" href="css/presets/preset5.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
+      <link href="css/main.css" rel="stylesheet">
   </head>
   <body>
     <div class="form-group">
